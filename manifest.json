@@ -1,0 +1,10 @@
+{
+    "name": "HubertsSuit",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Adds a Hubert Cumberdale suit to the rack",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"More_Suits-1.4.3"
+    ]
+}
